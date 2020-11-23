@@ -1,0 +1,24 @@
+<div class="side">
+      <h6 style="margin-block-end: 5px;margin-block-start: 0px;">Watch</h6>
+      <div class="example" action="#" style="margin:auto;max-width:300px;margin-block-end: 10px;">
+      <button type="submit"><i class="fa fa-search"></i></button>
+      <input type="text" placeholder="Search Post.." name="search2">
+      </div>
+      <div class="a"><i style="border: 1px solid;border-radius: 50px;background-color: blue;color: white;" class="fa fa-youtube-play" aria-hidden="true"></i>
+        <div class="b">Home</div>
+      </div>
+      <div class="a"><i style="border: 1px solid;border-radius: 50px;background-color: blue;color: white;" class="fa fa-film" aria-hidden="true"></i>
+        <div class="b">Shows</div>
+      </div>
+      <div class="a"><i style="border: 1px solid;border-radius: 50px;background-color: blue;color: white;" class="fa fa-video-camera" aria-hidden="true"></i>
+        <div class="b">Live</div>
+      </div>
+      <div class="a"><i style="border: 1px solid;border-radius: 50px;background-color: blue;color: white;" class="fa fa-bookmark" aria-hidden="true"></i>
+        <div class="b">Saved Videos</div>
+      </div>
+      <hr>
+      <h6 style="margin-block-end: 10px;margin-block-start: 20px;">Your Watchlist</h6>
+      <div class="a"><i style="border: 1px solid;border-radius: 50px;background-color: blueviolet;color: white;" class="fa fa-play" aria-hidden="true"></i>
+        <div class="b">Saved Videos</div>
+      </div>
+    </div> 

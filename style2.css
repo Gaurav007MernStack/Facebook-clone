@@ -1,0 +1,8 @@
+.Cover{
+    width: 1000px;
+    height: 500px;
+    background-image: url(./Images/Cover.png);
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+}
